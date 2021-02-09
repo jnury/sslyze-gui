@@ -1,0 +1,16 @@
+a {
+    color: #4fba6f;
+}
+
+a:hover {
+    color: #4c8056;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #4fba6f;
+}
+
+.btn-success {
+    background-color: #4fba6f;
+    border-color: #4fba6f;
+}
